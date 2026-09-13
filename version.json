@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "htmlUrl": "https://raw.githubusercontent.com/osmanuzerpurchasing/cari-takip-guncellemeleri/main/CARI_TAKIP_v1.1.0.html",
-  "notlar": "Yerel Ag Cihazlari listesi artik acilista hemen (kayitli halinden) gorunuyor, 7 sn beklemiyor."
+  "version": "1.2.0",
+  "htmlUrl": "https://raw.githubusercontent.com/osmanuzerpurchasing/cari-takip-guncellemeleri/main/CARI_TAKIP_v1.2.0.html",
+  "notlar": "Ayarlar artik herkeste (sadece guncelleme butonu). Otomatik guncelleme kontrolu + acilir pencere uyarisi. Talepler'e silme yetkisi eklendi."
 }
