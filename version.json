@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
-  "htmlUrl": "https://raw.githubusercontent.com/osmanuzerpurchasing/cari-takip-guncellemeleri/main/CARI_TAKIP_v1.0.5.html",
-  "notlar": "Baglanti durumu metni moda gore duzeltildi. Cihaza atanan rol artik PIN girisini kisitliyor."
+  "version": "1.0.6",
+  "htmlUrl": "https://raw.githubusercontent.com/osmanuzerpurchasing/cari-takip-guncellemeleri/main/CARI_TAKIP_v1.0.6.html",
+  "notlar": "Yerel ag sunucusu artik acilista otomatik yeniden baslar. Cihaz kimligi okuma hatasi (electronAPI/cariTakipMasaustu) duzeltildi."
 }
