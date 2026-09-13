@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "htmlUrl": "https://raw.githubusercontent.com/osmanuzerpurchasing/cari-takip-guncellemeleri/main/CARI_TAKIP_v1.2.0.html",
-  "notlar": "Ayarlar artik herkeste (sadece guncelleme butonu). Otomatik guncelleme kontrolu + acilir pencere uyarisi. Talepler'e silme yetkisi eklendi."
+  "version": "1.2.1",
+  "htmlUrl": "https://raw.githubusercontent.com/osmanuzerpurchasing/cari-takip-guncellemeleri/main/CARI_TAKIP_v1.2.1.html",
+  "notlar": "KRITIK DUZELTME: sonsuz guncelleme dongusu duzeltildi. Artik son basariyla uygulanan surum takip ediliyor."
 }
