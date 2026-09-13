@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
-  "htmlUrl": "https://raw.githubusercontent.com/osmanuzerpurchasing/cari-takip-guncellemeleri/main/CARI_TAKIP_v1.0.6.html",
-  "notlar": "Yerel ag sunucusu artik acilista otomatik yeniden baslar. Cihaz kimligi okuma hatasi (electronAPI/cariTakipMasaustu) duzeltildi."
+  "version": "1.0.7",
+  "htmlUrl": "https://raw.githubusercontent.com/osmanuzerpurchasing/cari-takip-guncellemeleri/main/CARI_TAKIP_v1.0.7.html",
+  "notlar": "Baglanti Modu'na 'Ikisi Birden' eklendi - gercek iki yonlu senkron (bulut + yerel ag ayni anda)."
 }
