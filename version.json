@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7",
-  "htmlUrl": "https://raw.githubusercontent.com/osmanuzerpurchasing/cari-takip-guncellemeleri/main/CARI_TAKIP_v1.0.7.html",
-  "notlar": "Baglanti Modu'na 'Ikisi Birden' eklendi - gercek iki yonlu senkron (bulut + yerel ag ayni anda)."
+  "version": "1.0.8",
+  "htmlUrl": "https://raw.githubusercontent.com/osmanuzerpurchasing/cari-takip-guncellemeleri/main/CARI_TAKIP_v1.0.8.html",
+  "notlar": "verifyConnection API anahtari gondermiyordu - duzeltildi. Bu, acilista goruntulenen yanlis 'Yetkisiz erisim' hatasinin sebebiydi."
 }
