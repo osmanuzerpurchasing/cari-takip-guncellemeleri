@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
-  "htmlUrl": "https://raw.githubusercontent.com/osmanuzerpurchasing/cari-takip-guncellemeleri/main/CARI_TAKIP_v1.4.0.html",
-  "notlar": "Puantaj vardiya (shift) tabanli hale getirildi - baslangic/bitis saati + HFi. Personel Kartlari'na departman filtresi eklendi."
+  "version": "1.4.1",
+  "notlar": "Departmanlar modulu yerel sunucuya (sunucu.js) da eklendi - artik hem bulut hem yerel agda tam calisiyor.",
+  "htmlUrl": "https://raw.githubusercontent.com/osmanuzerpurchasing/cari-takip-guncellemeleri/main/CARI_TAKIP_v1.4.1.html"
 }
