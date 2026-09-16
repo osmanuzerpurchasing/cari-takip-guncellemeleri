@@ -1,5 +1,5 @@
 {
-  "version": "1.6.1",
-  "notlar": "Urun Tanimla'da kayitsiz firma girilince uyari + hizli firma kayit penceresi eklendi.",
-  "htmlUrl": "https://raw.githubusercontent.com/osmanuzerpurchasing/cari-takip-guncellemeleri/main/CARI_TAKIP_v1.6.1.html"
+  "version": "1.7.0",
+  "notlar": "Fatura Islemleri altina 'Gider Faturasi' sekmesi eklendi (mevcut Giderler modulunun detayli rapor/grafik ekrani ile birlikte).",
+  "htmlUrl": "https://raw.githubusercontent.com/osmanuzerpurchasing/cari-takip-guncellemeleri/main/CARI_TAKIP_v1.7.0.html"
 }
