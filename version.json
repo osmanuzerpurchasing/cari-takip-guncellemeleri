@@ -1,5 +1,5 @@
 {
-  "version": "1.4.1",
-  "notlar": "Departmanlar modulu yerel sunucuya (sunucu.js) da eklendi - artik hem bulut hem yerel agda tam calisiyor.",
-  "htmlUrl": "https://raw.githubusercontent.com/osmanuzerpurchasing/cari-takip-guncellemeleri/main/CARI_TAKIP_v1.4.1.html"
+  "version": "1.5.1",
+  "notlar": "Pencere kapatma hatasi duzeltildi - beforeunload yerine gorunur bir onay penceresi kullaniliyor artik.",
+  "htmlUrl": "https://raw.githubusercontent.com/osmanuzerpurchasing/cari-takip-guncellemeleri/main/CARI_TAKIP_v1.5.1.html"
 }
