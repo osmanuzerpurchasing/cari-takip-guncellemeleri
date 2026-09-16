@@ -1,5 +1,5 @@
 {
-  "version": "1.5.2",
-  "notlar": "Ambar Raporu'na ambarlar arasi karsilastirmali cubuk grafik eklendi (donut grafigin yaninda).",
-  "htmlUrl": "https://raw.githubusercontent.com/osmanuzerpurchasing/cari-takip-guncellemeleri/main/CARI_TAKIP_v1.5.2.html"
+  "version": "1.6.1",
+  "notlar": "Urun Tanimla'da kayitsiz firma girilince uyari + hizli firma kayit penceresi eklendi.",
+  "htmlUrl": "https://raw.githubusercontent.com/osmanuzerpurchasing/cari-takip-guncellemeleri/main/CARI_TAKIP_v1.6.1.html"
 }
